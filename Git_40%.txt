@@ -1,14 +1,16 @@
                                                         COMANDOS DE GIT 40%
-1git init
-2git status 
-3git add .
-4git commit
-5git config --global user.name
-6git config --global user.email
-7git clear
-8git push
-9git push -u origin main 
-10git clon
+1git init//sirve para inicializar git
+2git status//Es un comando  para verificar el estado del proyecto antes de realizar operaciones 
+3git add .//es útil para agregar todos los cambios en el directorio actual y subdirectorios al área de preparación
+4git commit//es fundamental para guardar los cambios de un proyecto, permitiendo llevar un control detallado
+5git config --global user.name//sirve para cambiar el nombre en git
+6git config --global user.email//sirve para cambiar el correo en git
+7git clear//sirve para limpiar la hoja de git
+8git push//sirve para subir cosas al repositorio de github
+9git push -u origin main//sirve para subir el proseso de git a github de un rama en especifico 
+10git clon//es para copiar repositorios remotos a tu máquina local y comenzar a trabajar en ellos
+
+
 
 
 
