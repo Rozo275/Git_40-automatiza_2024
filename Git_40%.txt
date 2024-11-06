@@ -1,2 +1,14 @@
                                                         COMANDOS DE GIT 40%
+1git init
+2git status 
+3git add .
+4git commit
+5git config --global user.name
+6git config --global user.email
+7git clear
+8git push
+9git push -u origin main 
+10git clon
+
+
 
